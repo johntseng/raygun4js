@@ -1,3 +1,7 @@
+* v2.2.0-beta
+  - Adds experimental support for SPA sites to Pulse
+  - noConflict mode improved for V2
+
 * v2.1.0
   - Add custom grouping key function
   - Add ability to ignore hostnames and user agents for Pulse
